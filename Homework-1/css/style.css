@@ -32,8 +32,9 @@ body {
 
 ul,p {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    display: table;
-    margin: auto;
+    /*display: table;
+    margin: auto;*/
+    list-style-position: inside
 }
 
 
