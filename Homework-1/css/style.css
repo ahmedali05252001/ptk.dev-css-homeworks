@@ -1,0 +1,50 @@
+/* Header */
+
+header > h1 {
+    color: crimson;
+}
+
+header > a {
+    margin-right: 10px;
+    color: rgb(81, 108, 194);
+}
+
+header > h2 {
+    color:rgb(91, 12, 238);
+}
+
+
+
+
+/* Main-page-body */
+body {
+    text-align: center;
+}
+
+.sub-sub-title {
+    color: chocolate;
+}
+
+.p-about-me{
+    text-align: justify;
+    margin: 20px; 
+}
+
+ul,p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: table;
+    margin: auto;
+}
+
+
+/* Products-body */
+
+.instruments {
+    width: 350px;
+}
+
+ol {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: table;
+    margin: auto;
+}
