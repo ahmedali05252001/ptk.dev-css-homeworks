@@ -1,3 +1,3 @@
 ## My Music Studio
 
-![music-studio-pic](music-studio.png)
+![music-studio-pic](css/music-studio.png)
